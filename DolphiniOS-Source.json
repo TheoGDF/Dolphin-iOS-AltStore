@@ -1,0 +1,26 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "org.dolphin-emu.DolphiniOS",
+      "developerName": "Dolphin Emu Team",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/DolphiniOS/DolphiniOS.ipa",
+      "iconURL": "https://dl.orangedox.com/quarklibrary/DolphiniOS/icon.png",
+      "localizedDescription": "Initial Release.",
+      "name": "Dolphin iOS",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 18960427,
+      "subtitle": "Your favorite GameCube and Wii games, now on iOS.",
+      "tintColor": "40cbff",
+      "version": "1.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "DolphiniOS Source",
+  "news": [],
+  "userInfo": {}
+}
